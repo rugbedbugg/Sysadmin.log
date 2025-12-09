@@ -1,0 +1,13 @@
+# Sensitive files
+*password*
+*secret*
+*key*
+*.pem
+*.key
+*token*
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
